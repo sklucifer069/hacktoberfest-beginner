@@ -33,7 +33,7 @@ git clone https://github.com/your-username/hacktoberfest-beginner.git
 git checkout -b your-branch-name
 ```
 
-4. Make your addition to the `Profile` and `Hello World` directories
+4. Make your changes to the `Profile` and `Hello World` directories
 
 5. Commit and Push your changes
 ```markdown
